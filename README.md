@@ -15,7 +15,9 @@
 I'm open to collaboration and connecting with people interested in my skill set.
 
 ## 📫 Connect with me
-- GitHub: https://github.com/cabalerron
+  <a href="https://www.linkedin.com/in/erron-monteverde-4a441a287/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
 
 ## 🎯 Interests
 - 🎮 Gaming
