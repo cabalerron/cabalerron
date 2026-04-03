@@ -15,9 +15,16 @@
 I'm open to collaboration and connecting with people interested in my skill set.
 
 ## 📫 Connect with me
-  <a href="https://www.linkedin.com/in/erron-monteverde-4a441a287/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/erron-monteverde-4a441a287/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:eemonteverde04@gmail.com" target="_blank" title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+</p>
 
 ## 🎯 Interests
 - 🎮 Gaming
