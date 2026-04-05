@@ -24,9 +24,3 @@ I'm open to collaboration and connecting with people interested in my skill set.
     <img src="https://img.shields.io/badge/Email-eemonteverde04%40gmail.com-blue" alt="Email" style="max-width: 100%;">
   </a>
 </p>
-
-## 🎯 Interests
-- 🎮 Gaming
-- 🏍️ Riding
-- 🌍 Traveling
-- 🎉 Social activities
